@@ -7,8 +7,21 @@
       },
       "name": "Teste",
       "budget": "4000",
-      "cost": 0,
-      "services": [],
+      "cost": 380,
+      "services": [
+        {
+          "name": "serviço 1",
+          "cost": "150",
+          "description": "asdgasgsf",
+          "id": "21e11b40-c282-419a-8ad6-a64f9bd82c47"
+        },
+        {
+          "name": "Serviço 2",
+          "cost": "230",
+          "description": "serviço teste",
+          "id": "4db70566-f284-4c8f-b40e-33069b59ec1b"
+        }
+      ],
       "id": 1
     },
     {
